@@ -42,6 +42,7 @@ jobs:
           dexcom_sage \
           dexcom_upload_readings \
           no_auth \
+          now_line \
           algorithm_experiments \
           testflight_expiration_warning
 
